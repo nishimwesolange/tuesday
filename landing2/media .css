@@ -1,0 +1,30 @@
+body{
+    margin:0;
+font-family:arial, "helvetica neue",
+helvetica,sans-self;
+font-size: 17px;
+color:#926239;
+line-height:1.6;
+}
+
+#show case{
+    background-image:url('../img/showcase.jpg');
+    height:100px;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items:center;
+  padding: 0 20px;
+}
+
+#showcase h1{
+    font-size:50px;
+    
+}
+.all{
+    background: url(Kigali-City-750x450.jpg);
+}
+button{
+    height: 40px;
+}
+
